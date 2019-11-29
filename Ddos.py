@@ -1,6 +1,6 @@
 # MrSz # - @powered HTTP Flood - Http doser.py
 
-impor urllib2
+impor urllib
 impor sys
 impor threading
 impor acak
