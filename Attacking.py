@@ -46,3 +46,5 @@ sementara  Benar :
      print  "Paket % s terkirim ke port % s throught: % s " % (terkirim, ip, port)
      jika port ==  65534 :
        port =  1
+
+Python2 Attacking.py
